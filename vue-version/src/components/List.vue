@@ -10,5 +10,4 @@
             <Person :person="person" />
         </div>
     </section>
-    
 </template>
